@@ -1,0 +1,7 @@
+* searching
+** negamax
+** heuristics
+*** alpha/beta
+*** Transition Tables + killer heuristic
+    usually preferred to refutation tables
+

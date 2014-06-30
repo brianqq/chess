@@ -1,0 +1,13 @@
+* searching
+** negamax
+** iterative deepening
+** alpha/beta
+** Transition Tables
+   usually preferred to refutation tables
+** killer heuristic
+    only a few moves will actually save your ass
+** null move reductions
+   if you just reduce ply instead of quitting, you're less likely to miss important things
+** quiescence
+*** delta pruning
+    only make a capture if capture + margin of error (200 centipawns) can raise alpha
